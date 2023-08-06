@@ -9,3 +9,6 @@ A typing test website, to measure WPM:
 Upcoming Features: 
 - Tracks your progress over time and shows you how your typing speed is improving.
 - Multiplayer battles
+
+
+![image](https://github.com/m-sumaim/Type-Racer/assets/90371883/9f2a2992-4cc8-42ff-b4ba-10e7803567b9)
