@@ -10,5 +10,4 @@ Upcoming Features:
 - Tracks your progress over time and shows you how your typing speed is improving.
 - Multiplayer battles
 
-
-![image](https://github.com/m-sumaim/Type-Racer/assets/90371883/9f2a2992-4cc8-42ff-b4ba-10e7803567b9)
+![Screenshot from 2023-08-06 11-53-21](https://github.com/m-sumaim/Type-Arena/assets/90371883/891a791c-0ed0-4aa4-9c27-5d3b60d3d59d)
